@@ -1,0 +1,9 @@
+{
+  "name": "vtex-session",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "commonjs",
+  "dependencies": {
+    "dotenv": "^17.3.1"
+  }
+}
